@@ -24,9 +24,7 @@ The **Android app for LectureFlow**, built as a **Trusted Web Activity (TWA)** a
 ### 🤖 [Period Tracker Bot](https://github.com/kiaashkan/period-tracker-bot)
 Open-source **Telegram bot** on Cloudflare Workers (D1) for period cycle prediction and reminders.
 
-## 🛠️ I work with
 
-Kotlin · Android · JavaScript · Cloudflare Workers · D1 · Telegram Bots & Mini Apps · PWA / TWA · AI APIs (Whisper, LLMs)
 
 ## 📫 Find me
 
