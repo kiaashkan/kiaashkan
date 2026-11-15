@@ -17,8 +17,12 @@ Tiny, **ad-free, fully offline Android text editor** written from scratch in nat
 ### 📱 [LectureFlow App](https://github.com/kiaashkan/LectureFlow-app)
 The **Android app for LectureFlow**, built as a **Trusted Web Activity (TWA)** around the LectureFlow web app — one codebase, every site update is instantly the app update.
 
-### 🌸 [iCycle — Period Tracker Bot](https://github.com/kiaashkan/period-tracker-bot)
-**Telegram period & cycle tracker bot + Mini App** on Cloudflare Workers and D1: cycle predictions, reminders, fertile/ovulation confidence and daily logging.
+### 🌸 [iCycle](https://t.me/InformCyclebot)
+**Telegram period & cycle tracker bot + Mini App** (@InformCyclebot) on Cloudflare Workers and D1: cycle predictions, reminders, fertile/ovulation confidence and daily logging. A live product — closed source.
+🔗 Try it: https://t.me/InformCyclebot
+
+### 🤖 [Period Tracker Bot](https://github.com/kiaashkan/period-tracker-bot)
+Open-source **Telegram bot** on Cloudflare Workers (D1) for period cycle prediction and reminders.
 
 ## 🛠️ I work with
 
@@ -31,4 +35,4 @@ Kotlin · Android · JavaScript · Cloudflare Workers · D1 · Telegram Bots & M
 - ✉️ Email: kiaashkan6@gmail.com
 
 ---
-*KiA Ashkan (kiaashkan) — building LectureFlow, EditNote and iCycle in the open.*
+*KiA Ashkan (kiaashkan) — builder of LectureFlow, EditNote and iCycle.*
