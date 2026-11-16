@@ -4,7 +4,7 @@
 
 I create practical tools and projects that solve real everyday problems. The projects below are mine — I design and direct them, and the code is written with the help of Muse AI.
 
-مهندس IT و متخصص هلپ‌دسک هستم؛ برنامه‌نویسی خودم با C# ـه. سازنده‌ی پروژه‌های LectureFlow و EditNote و iCycle.
+سازنده‌ی پروژه‌های LectureFlow و EditNote و iCycle.
 
 ## 🚀 My projects
 
@@ -26,13 +26,6 @@ The **Android app for LectureFlow**, built as a **Trusted Web Activity (TWA)** a
 ### 🤖 [Period Tracker Bot](https://github.com/kiaashkan/period-tracker-bot)
 Open-source **Telegram bot** on Cloudflare Workers (D1) for period cycle prediction and reminders.
 
-## 💼 What I do
-
-- 🛠️ **IT Engineering**
-- 🎧 **Help Desk & technical support** — my specialty
-- 💻 **Programming: C#**
-- 🤖 I design and direct the projects above; their code is written with the help of Muse AI
-
 ## 📫 Find me
 
 - 🌐 Website: https://kiaashkan.kdns.fr/
@@ -40,4 +33,4 @@ Open-source **Telegram bot** on Cloudflare Workers (D1) for period cycle predict
 - ✉️ Email: kiaashkan6@gmail.com
 
 ---
-*KiA Ashkan (kiaashkan) — IT Engineer & Help Desk Specialist; builder of LectureFlow, EditNote and iCycle.*
+*KiA Ashkan (kiaashkan) — builder of LectureFlow, EditNote and iCycle.*
