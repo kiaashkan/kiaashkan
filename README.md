@@ -4,8 +4,6 @@
 
 I create practical tools and projects that solve real everyday problems. The projects below are mine — I design and direct them, and the code is written with the help of Muse AI.
 
-سازنده‌ی پروژه‌های LectureFlow و EditNote و iCycle.
-
 ## 🚀 My projects
 
 ### 🎙️ [LectureFlow](https://github.com/kiaashkan/LectureFlow)
@@ -30,7 +28,6 @@ Open-source **Telegram bot** on Cloudflare Workers (D1) for period cycle predict
 
 - 🌐 Website: https://kiaashkan.kdns.fr/
 - 🐦 Twitter / X: [@kiaashkan1](https://twitter.com/kiaashkan1)
-- ✉️ Email: kiaashkan6@gmail.com
+- ✉️ Email: Info.kiaashkan.kdns.fr
 
----
-*KiA Ashkan (kiaashkan) — builder of LectureFlow, EditNote and iCycle.*
+
