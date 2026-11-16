@@ -1,6 +1,6 @@
 # Hi, I'm KiA Ashkan 👋
 
-**IT Engineer & Help Desk Specialist.** My own programming is in **C#** — that's the only language I code in myself.
+**IT Engineer & Help Desk Specialist** · Programming: **C#**
 
 I create practical tools and projects that solve real everyday problems. The projects below are mine — I design and direct them, and the code is written with the help of Muse AI.
 
@@ -30,7 +30,7 @@ Open-source **Telegram bot** on Cloudflare Workers (D1) for period cycle predict
 
 - 🛠️ **IT Engineering**
 - 🎧 **Help Desk & technical support** — my specialty
-- 💻 **Programming: C#** — the only language I code in myself
+- 💻 **Programming: C#**
 - 🤖 I design and direct the projects above; their code is written with the help of Muse AI
 
 ## 📫 Find me
