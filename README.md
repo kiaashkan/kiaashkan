@@ -28,6 +28,6 @@ Open-source **Telegram bot** on Cloudflare Workers (D1) for period cycle predict
 
 - 🌐 Website: https://kiaashkan.kdns.fr/
 - 🐦 Twitter / X: [@kiaashkan1](https://twitter.com/kiaashkan1)
-- ✉️ Email: Info.kiaashkan.kdns.fr
+- ✉️ Email: Info@kiaashkan.kdns.fr
 
 
