@@ -21,8 +21,9 @@ The **Android app for LectureFlow**, built as a **Trusted Web Activity (TWA)** a
 **Telegram period & cycle tracker bot + Mini App** (@InformCyclebot) on Cloudflare Workers and D1: cycle predictions, reminders, fertile/ovulation confidence and daily logging. A live product — closed source.
 🔗 Try it: https://t.me/InformCyclebot
 
-### 🤖 [Period Tracker Bot](https://github.com/kiaashkan/period-tracker-bot)
-Open-source **Telegram bot** on Cloudflare Workers (D1) for period cycle prediction and reminders.
+### 🛒 [Merkoo](https://github.com/kiaashkan/Merkoo)
+**Telegram bot + Mini App** (@MerkooBot) for **shared shopping lists and tasks**, with a price bank (catalog). Bilingual (Persian/English), on Cloudflare Workers.
+🔗 Try it: https://t.me/MerkooBot
 
 ## 📫 Find me
 
