@@ -11,7 +11,7 @@ Tiny, **ad-free, fully offline Android text editor** written from scratch in nat
 🔗 Download: https://github.com/kiaashkan/EditNote/releases
 
 ### 🌸 [iCycle](https://t.me/InformCyclebot)
-**Telegram period & cycle tracker bot + Mini App** (@InformCyclebot) on Cloudflare Workers and D1: cycle predictions, reminders, fertile/ovulation confidence and daily logging. A live product — closed source.
+**Telegram Mini App for period & cycle tracking** (@InformCyclebot) on Cloudflare Workers and D1: cycle predictions, reminders, fertile/ovulation confidence and daily logging. A live product — closed source.
 🔗 Try it: https://t.me/InformCyclebot
 
 ### 🎙️ [LectureFlow](https://github.com/kiaashkan/LectureFlow)
