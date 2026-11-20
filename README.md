@@ -1,8 +1,19 @@
-# KiA Ashkan
+<h1 align="center">KiA Ashkan</h1>
 
-**IT Engineer & Help Desk Specialist** · Programming: **C#**
+<p align="center">
+  <b>IT Engineer &amp; Help Desk Specialist</b> · Programming: <b>C#</b>
+</p>
 
-I design and direct practical tools that solve real everyday problems. The projects below are mine — I design and direct them, and the code is written with the help of Muse AI.
+<p align="center">
+  I design and direct practical tools that solve real everyday problems.<br/>
+  The projects below are mine — designed and directed by me, with the code written with the help of Muse AI.
+</p>
+
+<p align="center">
+  <a href="https://kiaashkan.kdns.fr/"><img src="https://img.shields.io/badge/Website-kiaashkan.kdns.fr-24292f?style=flat-square" alt="Website"/></a>
+  <a href="mailto:Info@kiaashkan.kdns.fr"><img src="https://img.shields.io/badge/Email-Info@kiaashkan.kdns.fr-24292f?style=flat-square" alt="Email"/></a>
+  <a href="https://twitter.com/kiaashkan1"><img src="https://img.shields.io/badge/X-@kiaashkan1-24292f?style=flat-square" alt="X / Twitter"/></a>
+</p>
 
 ---
 
@@ -32,11 +43,3 @@ Free **AI lecture transcription** — voice to text, nothing else. Upload a lect
 The **Android app for LectureFlow** — a Trusted Web Activity (TWA) around the LectureFlow web app. One codebase: every site update is instantly the app update.
 **Stack:** Android · TWA
 **Links:** [Source](https://github.com/kiaashkan/LectureFlow-app)
-
----
-
-## 📫 Find me
-
-- 🌐 **Website:** https://kiaashkan.kdns.fr/
-- ✉️ **Email:** Info@kiaashkan.kdns.fr
-- 🐦 **X / Twitter:** [@kiaashkan1](https://twitter.com/kiaashkan1)
