@@ -17,11 +17,11 @@
 
 ---
 
-##  Projects
+## 🚀 Projects
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top">
       <h3>📝 <a href="https://github.com/kiaashkan/EditNote">EditNote</a></h3>
       <p>Ad-free, fully offline <b>Android text editor</b> — a clean replacement for ad-heavy editors. No ads, no account, no internet. Custom fast editor engine, syntax highlighting, visual styles and note reminders.</p>
       <p>
@@ -30,7 +30,14 @@
       </p>
       <p>🔗 <a href="https://github.com/kiaashkan/EditNote/releases"><b>Download</b></a> · <a href="https://github.com/kiaashkan/EditNote">Source</a></p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td valign="top">
       <h3>🌸 <a href="https://t.me/InformCyclebot">iCycle</a></h3>
       <p><b>Telegram Mini App for period &amp; cycle tracking</b>: cycle predictions, reminders, fertile/ovulation confidence and daily logging. A live product — closed source.</p>
       <p>
@@ -40,8 +47,13 @@
       <p>🔗 <a href="https://t.me/InformCyclebot"><b>Open in Telegram</b></a></p>
     </td>
   </tr>
+</table>
+
+<br/>
+
+<table>
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top">
       <h3>🎙️ <a href="https://github.com/kiaashkan/LectureFlow">LectureFlow</a></h3>
       <p>Free <b>AI lecture transcription</b> — voice to text, nothing else. Upload a lecture recording, even a long, noisy, far-from-the-professor phone recording, and get the complete transcript.</p>
       <p>
@@ -50,7 +62,14 @@
       </p>
       <p>🔗 <a href="https://lf.kiaashkan.workers.dev/"><b>Live site</b></a> · <a href="https://github.com/kiaashkan/LectureFlow">Source</a></p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td valign="top">
       <h3>🛒 <a href="https://github.com/kiaashkan/Merkoo">Merkoo</a></h3>
       <p><b>Telegram bot + Mini App</b> for shared shopping lists and tasks, with a price bank (catalog). Bilingual — Persian &amp; English.</p>
       <p>
@@ -60,8 +79,13 @@
       <p>🔗 <a href="https://t.me/MerkooBot"><b>Open in Telegram</b></a> · <a href="https://github.com/kiaashkan/Merkoo">Source</a></p>
     </td>
   </tr>
+</table>
+
+<br/>
+
+<table>
   <tr>
-    <td colspan="2" valign="top">
+    <td valign="top">
       <h3>📱 <a href="https://github.com/kiaashkan/LectureFlow-app">LectureFlow App</a></h3>
       <p>The <b>Android app for LectureFlow</b> — a Trusted Web Activity (TWA) around the LectureFlow web app. One codebase: every site update is instantly the app update.</p>
       <p>
