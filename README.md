@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 <table>
   <tr>
