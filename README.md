@@ -21,25 +21,18 @@
 
 <table>
   <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
       <h3>📝 <a href="https://github.com/kiaashkan/EditNote">EditNote</a></h3>
-      <p>Ad-free, fully offline <b>Android text editor</b> — a clean replacement for ad-heavy editors. No ads, no account, no internet. Custom fast editor engine, syntax highlighting, visual styles and note reminders.</p>
+      <p>Ad-free, fully offline <b>Android text editor</b> — no ads, no account, no internet. Fast custom editor engine, syntax highlighting and note reminders.</p>
       <p>
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
       </p>
       <p>🔗 <a href="https://github.com/kiaashkan/EditNote/releases"><b>Download</b></a> · <a href="https://github.com/kiaashkan/EditNote">Source</a></p>
     </td>
-  </tr>
-</table>
-
-<br/>
-
-<table>
-  <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
       <h3>🌸 <a href="https://t.me/InformCyclebot">iCycle</a></h3>
-      <p><b>Telegram Mini App for period &amp; cycle tracking</b>: cycle predictions, reminders, fertile/ovulation confidence and daily logging. A live product — closed source.</p>
+      <p><b>Telegram Mini App for period &amp; cycle tracking</b> — predictions, reminders and daily logging. A live product, closed source.</p>
       <p>
         <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
         <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
@@ -53,25 +46,18 @@
 
 <table>
   <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
       <h3>🎙️ <a href="https://github.com/kiaashkan/LectureFlow">LectureFlow</a></h3>
-      <p>Free <b>AI lecture transcription</b> — voice to text, nothing else. Upload a lecture recording, even a long, noisy, far-from-the-professor phone recording, and get the complete transcript.</p>
+      <p>Free <b>AI lecture transcription</b> — voice to text, nothing else. Even long, noisy recordings become a complete transcript.</p>
       <p>
         <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
         <img src="https://img.shields.io/badge/Groq%20Whisper-24292f?style=flat-square" alt="Groq Whisper"/>
       </p>
       <p>🔗 <a href="https://lf.kiaashkan.workers.dev/"><b>Live site</b></a> · <a href="https://github.com/kiaashkan/LectureFlow">Source</a></p>
     </td>
-  </tr>
-</table>
-
-<br/>
-
-<table>
-  <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
       <h3>🛒 <a href="https://github.com/kiaashkan/Merkoo">Merkoo</a></h3>
-      <p><b>Telegram bot + Mini App</b> for shared shopping lists and tasks, with a price bank (catalog). Bilingual — Persian &amp; English.</p>
+      <p><b>Telegram bot + Mini App</b> for shared shopping lists and tasks, with a price bank. Bilingual — Persian &amp; English.</p>
       <p>
         <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
         <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
@@ -85,9 +71,9 @@
 
 <table>
   <tr>
-    <td valign="top">
+    <td colspan="2" valign="top">
       <h3>📱 <a href="https://github.com/kiaashkan/LectureFlow-app">LectureFlow App</a></h3>
-      <p>The <b>Android app for LectureFlow</b> — a Trusted Web Activity (TWA) around the LectureFlow web app. One codebase: every site update is instantly the app update.</p>
+      <p>The <b>Android app for LectureFlow</b> — a Trusted Web Activity (TWA) around the web app. One codebase, instant updates.</p>
       <p>
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
         <img src="https://img.shields.io/badge/TWA-24292f?style=flat-square" alt="TWA"/>
