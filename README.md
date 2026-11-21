@@ -57,7 +57,7 @@
       <p>🔗 <a href="https://lf.kiaashkan.workers.dev/"><b>Live site</b></a> · <a href="https://github.com/kiaashkan/LectureFlow">Source</a></p>
     </td>
     <td width="50%" valign="top">
-      <p>🛒</p>
+      <p><img src="assets/merkoo.svg" width="64" alt="Merkoo icon"/></p>
       <h3><a href="https://github.com/kiaashkan/Merkoo">Merkoo</a></h3>
       <p><b>Telegram bot + Mini App</b> for shared shopping lists and tasks, with a price bank. Bilingual — Persian &amp; English.</p>
       <p>🔗 <a href="https://t.me/MerkooBot"><b>Open in Telegram</b></a> · <a href="https://github.com/kiaashkan/Merkoo">Source</a></p>
