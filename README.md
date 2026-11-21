@@ -59,16 +59,13 @@
       <p>🔗 <a href="https://t.me/MerkooBot"><b>Open in Telegram</b></a> · <a href="https://github.com/kiaashkan/Merkoo">Source</a></p>
     </td>
   </tr>
-</table>
-
-<br/>
-
-<table width="100%">
   <tr>
-    <td width="100%" valign="top">
+    <td colspan="2" valign="top">
       <h3><img src="assets/lectureflow-app.svg" width="26" align="absmiddle" alt=""/> <a href="https://github.com/kiaashkan/LectureFlow-app">LectureFlow App</a></h3>
       <p>The <b>Android app for LectureFlow</b> — a Trusted Web Activity (TWA) around the web app. One codebase, instant updates.</p>
       <p>🔗 <a href="https://github.com/kiaashkan/LectureFlow-app"><b>Source</b></a></p>
     </td>
   </tr>
 </table>
+
+
