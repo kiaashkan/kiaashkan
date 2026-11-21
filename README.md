@@ -65,7 +65,7 @@
 
 <table width="100%">
   <tr>
-    <td valign="top">
+    <td width="100%" valign="top">
       <h3><img src="assets/lectureflow-app.svg" width="26" align="absmiddle" alt=""/> <a href="https://github.com/kiaashkan/LectureFlow-app">LectureFlow App</a></h3>
       <p>The <b>Android app for LectureFlow</b> — a Trusted Web Activity (TWA) around the web app. One codebase, instant updates.</p>
       <p>🔗 <a href="https://github.com/kiaashkan/LectureFlow-app"><b>Source</b></a></p>
